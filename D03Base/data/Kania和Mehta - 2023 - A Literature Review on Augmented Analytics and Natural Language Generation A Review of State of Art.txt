@@ -1,0 +1,182 @@
+﻿journal of trends in computer science and smart technology (issn: 2582-4104) www.irojournals.com/tcsst/
+A Literature Review on Augmented
+Analytics and Natural Language
+Generation: A Review of State of Art
+Techniques, Opportunities and
+Challenges.
+Shivani Kania1, Dr.Yesha Mehta2
+1Research Scholar, Department of Computer Science, Sarvajanik University, Surat – 395001, India. 2Assistant Professor, Department of Computer Science, SRKI, Sarvajanik University, Surat – 395001, India
+Email: 1kaniashivani@gmail.com, 2yesha.mehta@srki.ac.in
+Abstract
+Augmented analytics is a type of analytics in which machine learning and artificial intelligence are used to provide users with more advanced and understandable analytical capabilities. Data preparation, analysis, and result interpretation are all automated steps in the analysis method. Natural language processing (NLP), automated data collection, machine learning, data visualization, explainable AI, and collaborative analytics are some of the techniques used in augmented analytics. The goal of augmented analytics technology is to simplify and modernize data analysis, making it more accessible to a wider variety of people and enabling improved decision-making across organizations. NLP is a branch of artificial intelligence (AI) and machine learning (ML) that studies the interactions between technology and people. The purpose of this study is to examine cutting-edge approaches in augmented analytics and natural language processing in order to create a sophisticated natural language generation model for augmented analytics data interpretation.
+Keywords: Natural Language Processing, Machine Learning, Natural Language Generation, Artificial intelligence, Augmented Analytics, Natural Language Query.
+journal of trends in computer science and smart technology, september 2023, volume 5, issue 3, pages 302-322	302
+DOI: https://doi.org/10.36548/jtcsst.2023.3.006
+Received: 11.07.2023, received in revised form: 18.08.2023, accepted: 02.09.2023, published: 15.09.2023
+© 2023 Inventive Research Organization. This is an open access article under the Creative Commons Attribution-NonCommercial International (CC BY-NC 4.0) License
+1.	Introduction
+1.1.	Background
+Augmented analytics, as defined by Stephen J. Andriole, focuses on leveraging automation to improving the process of observing and transferring patterns in data. The ultimate objective of analytics is to transform raw data into actionable information that enables informed decision-making [21].
+Augmented analytics is a type of analytics that utilizes machine learning and AI to provide more advanced and intuitive analytical capabilities to users. It automates several steps in the analytical process, including data preparation, analysis, and even interpretation of results.
+This technology helps users to derive insights and knowledge more easily and accurately from data, regardless of their level of technical expertise or knowledge of data analysis. Augmented analytics provides more efficient and effective ways to identify patterns, trends, and insights that can lead to better decision-making and business outcomes. [14]
+1.2.	Techniques of Augmented Analytics
+Figure 1. Techniques of Augmented Analytics [16]
+Augmented analytics encompasses a range of techniques and technologies as shown in Figure.1. Some of these include:
+1.	Natural Language Processing (NLP): This technique enables users to interact with data using natural language queries or commands. NLP can help users quickly and easily extract insights from data without requiring a deep understanding of data analysis.
+2.	Automated Data Preparation: Augmented analytics tools can automatically identify and correct errors in data, combine and transform data from multiple sources, and perform other data preparation tasks that traditionally require manual effort.
+3.	Machine Learning: Machine learning algorithms can analyze large volumes of data to identify patterns and make predictions. In augmented analytics, machine learning algorithms can be used to identify the most relevant insights or recommendations based on user input and behaviour.
+4.	Data Visualization: Augmented analytics tools can automatically create data visualizations that highlight key insights and trends in data. These visualizations can help users quickly understand and communicate complex information.
+5.	Explainable AI: Augmented analytics tools can provide explanations on how insights and recommendations were generated, making it easier for users to understand and trust the results.
+6.	Collaborative Analytics: Augmented analytics can facilitate collaboration among teams by allowing multiple users to access and analyze data simultaneously, share insights and collaborate on data analysis projects.
+Overall, augmented analytics technologies aim to simplify and democratize the data analysis process, making it more accessible to a wider range of users and enabling better decision-making across organizations.[16]
+Augmented Analytics is a significant development in the field of Business Analytics. With the help of ML algorithms and NLP techniques, Augmented Analytics has the potential to democratize data analysis and provide businesses of all sizes with the ability to make data-driven decisions. By automating data preparation and analysis, this technology can help reduce the time and effort required for manual data processing and allow business users to focus on interpreting the insights and making informed decisions. [16]
+The concept of citizen data scientists, who are business users with no formal training in data analytics but who can use these automated tools to analyze data and gain insights, is an important aspect of augmented analytics. With this approach, businesses can empower their employees to take on data-driven decision making and improve their overall productivity.[16]
+Augmented analytics has the potential to provide significant benefits, it's not a one-size-fits-all solution. It's essential to consider factors such as data quality, availability, and security, and to ensure that the insights derived from data analysis are reliable and accurate. Additionally, businesses need to have a clear understanding of their data and business objectives to effectively leverage the benefits of augmented analytics. [16]
+In summary, augmented analytics promises to bring advanced analytics to everyone's desktop, allowing businesses of all sizes to make data-driven decisions. This technology can help democratize data analysis and empower citizen data scientists, but it's important to carefully consider factors such as data quality and business objectives before adopting this approach. [16]
+1.3	. Augmented Analytics Features
+Augmented analytics offers several key features for enhanced data analysis and decision-making:
+1.	Recommendation and enrichment of data: The solution suggests relevant datasets to analyze, notifies users of updates, and proposes new datasets if the results are unsatisfactory. Instant creation of charts and visuals aids in understanding and sharing results for quick business decisions.
+2.	Natural language interfaces: Natural language queries, speech-to-text capabilities, and results presented in ordinary business language allow for easy interaction with the analytics solution.
+3.	Automated analytics: Continuous analysis occurs without user intervention, known as "automatic business monitoring." This automation speeds up the time to insight by automating data discovery and promptly identifying significant changes in data, such as trend shifts, particularly beneficial for large datasets with high dimensionality.
+4.	Natural Language Generation (NLG) and Natural Language Processing (NLP): NLG and NLP technologies provide comprehensive explanations of insights in a user-friendly manner, making complex information more accessible. They can interpret and analyze text or voice, enabling users to interact with data through a more natural interface.
+These features collectively enhance the capabilities of analytics solutions, making data analysis more intuitive, efficient, and accessible to users, ultimately enabling informed decision-making [21].
+1.4	. Role of Natural Language Processing (NLP) in Augmented Analytics
+Natural Language Processing (NLP) is an AI and ML subfield that focuses on technology's interface with human communication, enabling machines to understand and produce natural language. It enhances knowledge about text, enabling analysis, comprehension, and generation of language. NLP is used in various applications like text categorization, sentiment analysis, translation, speech recognition, and question answering. It has led to the development of text mining technologies such as information extraction, summarization, classification, clustering, and opinion mining. NLP also encompasses voice recognition, natural language understanding (NLU), and natural language generation (NLG) for tasks like translating spoken words, interpreting meaning, and generating coherent text.
+1.5	Natural Language Generation (NLG)
+Natural Language Generation is a software process that Converts organized data into human–readable.
+Natural Language Generation is one of the secondary but important subject fields of Natural Language Process.
+Natural Language Generation techniques are used in so many sub-sequent tasks such as dialogue generation, summarization, Generative Question Answering (GQA), Machine translation (MT), Data-to-text generation. The Figure.2 depicts the work flow of NLG.
+Figure 2. NLG Work Flow [13]
+Around 35% of E-Commerce customers are read previews in websites before choosing any products to buy.
+But it is difficult to generate content for each product for many retailers.
+Natural Language Generation technology can robotize this process.
+Thus, improve inclusive sales/marketing efforts of the companies.[13]
+1.6	The Challenges of Content Automation with Natural Language Generation.[13]
+Figure 3. Challenges of Content Automation with NLG[13]
+The Figure.3 depicts the Challenges of content Automation with NLG.
+1.7	The Taxonomy of the Goals in Natural Language Generation:[14]
+There are three types of taxonomy of the goals in Natural Language Generation
+Linguistic Quality:
+1.1	Divers
+1.2	Figurative
+1.3	Descriptive
+2.	Semantic Quality
+2.1	Faithful
+2.2	Logical
+2.3	Knowledgeable
+3.	Interaction with Humans
+3.1	Explainable
+3.2	Controllable
+3.3	Fair
+3.4	Efficient
+1.8 Natural Language Query
+A natural language query is an input that consists only of terms or phrases declared regularly or entered exactly as they would be replied, without any non-language characters, such as the plus symbol or the asterisk, and without any special format or syntax adjustment. Natural language queries can be made through a text or voice interface.
+A natural language query is a type of search query that is produced using natural language rather than specified search terms or keywords. Natural language queries are meant to be understood by both people and computers and are designed to replicate the way humans communicate.
+Natural language queries can be analysed using NLP techniques, which analyse the syntax, structure, and meaning of the question to determine its intent. Natural language query processing aims to provide relevant and correct answers to the user's question.
+For example, a natural language query such as "What is the weather like in New York today?" can be processed using NLP techniques to extract the location (New York) and the time (today), and provide a response that provides current weather information for New York.
+Natural language queries can be used to provide more intuitive and user-friendly interfaces for users in a range of applications, including search engines, virtual assistants, and chatbots. [18]
+Natural Language Query consists of three key steps, which are as below in Table.1 :[20]
+Table 1. Three Key steps of Natural Language Query
+Goal	Work	Usage
+Rule-based Filtering	Quickly exclude irrelevant data items using traditional rule-based methods such as keyword search on table names, column names, or metadata.	Filtering tables to narrow down candidate items for further examination.
+Embeddingbased Similarity Search	Discover the most relevant items from the candidate items based on the similarity between the query embedding and the item embeddings learned using the representation learning approach. Return the top items whose embeddings are most similar to the query embedding.	Finding the most similar items to the query in a highdimensional space, such as image or audio search.
+Human-in-the-loop Selection	Allow human interactions to select the most relevant items among the candidate items returned from the previous step. Using manual selection results as annotation to improve cross-modal representation and train a few-shot metascoring system that can take over the role of human selection.	Improving similarity search results by aligning them with human preference, reducing manual annotation effort, and making the system more user-friendly.
+2.	Survey Paper Approaches
+The Table .2 provides the approaches studied by researchers for identifying research approaches and challenges.
+Table 2. Research Approaches Strengths and Challenges
+Paper Tittle	Year	Author	Strength	Limitation
+Augmented Analytics Driven by AI: A	Digital Transformation beyond Business Intelligence[22]	Oct,2022	Noorah A. Alghamdi	Leveraging augmented analytics as a key	success factor empowers businesses	to gain	a competitive advantage	by automating the analytics cycle, managing big data,	and enabling data-driven decisionmaking, ultimately improving overall organizational growth	and strategic business benefits.	The	passage does not discuss potential challenges	or limitations associated with leveraging augmented analytics	in businesses.	It mainly focuses on the benefits and advantages of	Augmented Analytics without addressing any drawbacks, implementation challenges.
+Artificial intelligence-	July,2022	Shih-Ting Chu	The application of AI robots in education has	Lack	of comprehensive review	and
+based robots in education			the potential to enhance learning performance, promote diverse learning environments, and	facilitate personalized guidance	and feedback	for learners.	analysis of AI-Robot's	role, research trends, and	research issues	in the field	of	AI- Robots	in Education (AIRE).
+Augmented Analytics:	A Review	Of Current Trends And	Future Challenges	January,2022.	Ajai Gopal Bhartariya	Efficiently evaluates data, uncovers patterns,	aids decisionmaking	with Augmented analytics	and AI.	Data dependability, trust,	and transparency are critical in AI analytics.	Job roles	and process orchestration are affected	by augmented analytics.
+Natural Language Generation[13]	December,2020 MINUTE READ	Cem Dilmegani	Its ability to automatically transform structured data into	human- readable	text, enabling	The potential for generated text to lack the depth of understanding and	creativity that	human- authored content
+			businesses	to generate large volumes	of data-+driven narratives quickly	and effectively for marketing and sales	efforts, providing personalized content at scale in the age of digitalization and AI.	can	provide, leading	to potential limitations	in generating highly nuanced or contextually complex narratives.
+Augmented Analytics	February,2019	Fachmedien Wiesbaden GmbH	The	paper provides	an extensive examination of augmented analytics, including	its definition, differentiation from traditional BI	and advanced analytics, historical shift in	BI	and analytics,	AI	Analytics is not specifically mentioned in the provided text. A common limitation of AI in analytics is the potential for biased	or erroneous results due to biased	or incomplete training data.
+			techniques used, analytics cycle	phases, specific	AI applications, recognition of expertise	and stakeholder involvement, addressing AI limitations, and identifying research opportunities in information systems.	
+Augmented Analytics Use Cases	June,2018	Paramita Ghosh	Its ability to automate data preparation and advanced analytics tasks, empowering everyday business users to	gather, collate, analyze,	and extract intelligence without	the need for skilled manpower	or	The need for businesses	to adapt	their mindset, infrastructure, and monitoring techniques,	as well	as standardize NLP and	automate data	science activities, which can	challenge adoption	and efficiency.
+			complex	data center setups.	
+3.	Real-world Content Automation
+Content automation refers to using technology and software to automatically generate and publish digital content. It involves using algorithms and templates to create personalized and relevant content that is consistent and high-quality. Its applications include report generation, email campaigns, chatbots, and product descriptions.
+Here are some real-world content automation examples shown in Table.3 :[13]
+Table 3. Real-world Content Automation Examples
+Category	Purpose	Developed By
+GPT-3	Language model for generating human-like text	OpenAI
+LaMDA	Language model for Dialogue application	Google in mid 2021.
+Machine	Generated Book	-	Springer in 2019.
+Coversational AI	Advanced Speech-to-Text Powered by Deep Learning	Apple in 2011 (Ex,Siri,Alexa)
+3.1	GPT-3
+Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text. When given a prompt, it will generate text that continues the prompt.GPT is part of a trend in natural language processing (NLP) systems of pre-trained language representations. [3]
+Limitation: ChatGPT has multiple limitations. OpenAI acknowledges that ChatGPT “occasionally writes plausible-sounding but incorrect or nonsensical
+answers".[8] This behavior is common to large language models and is called "hallucination". [4][10]
+Figure 4. Use Case of ChatGPT [7]
+GPT-3 has a wide range of use cases due to its ability to generate natural language text. The Figure .4 depicts the Use Case of ChatGPT. Some of its most common use cases include:
+Prompts for AI generator: Prompts for AI generator are specific topics or ideas given to an AI language model to generate text or content.
+Debugging Code: Debugging code refers to the process of finding and fixing errors or bugs in software code.
+Predicting Questions: Predicting questions is the process of anticipating what questions an audience or user might have and preparing answers or responses in advance.
+Entertainment: Entertainment by GPT-3 refers to the use of the GPT-3 language model for creating various forms of entertainment, such as games, Chatbots, and interactive stories.
+Scheduling and appointment booking: GPT-3 can be trained to understand and respond to natural language queries related to scheduling and booking, allowing it to communicate with users and coordinate appointments with minimal human intervention.
+Education or training: GPT-3 can be used to generate educational materials such as textbooks, instructional videos, and quizzes, or to interact with students in the form of chatbots or virtual assistants.[7]
+3.2	LaMDA
+LaMDA (Language Model for Dialogue Applications) is a family of conversational large language models developed by Google. Originally developed and introduced as Meena in 2020. LaMDA is designed to understand and respond to complex queries, making it suitable
+for use in a wide range of conversational applications such as chatbots, virtual assistants, and customer service systems. Google has stated that LaMDA has the potential to revolutionize the way humans interact with computers, enabling more natural and intuitive communication between humans and machines. [8]
+Limitation: LaMDA has some limitations, despite its advanced capabilities. One limitation is that it requires a large amount of training data to function effectively. This means that in order to produce high-quality responses, LaMDA needs to be trained on a massive dataset of human conversations, which can be time-consuming and expensive. Another limitation is that LaMDA, like other language models, can exhibit biases or reproduce harmful stereotypes that exist in the training data. This can lead to problematic responses in certain contexts or reinforce existing societal biases. The Figure.5 depicts the Use Case of LaMDA
+Figure 5. Use Case of LaMDA
+3.3	. Machine Generated Book
+A machine-generated book is a book that has been produced using artificial intelligence (AI) or machine learning algorithms, without direct human involvement in the writing process. These algorithms analyze large amounts of data and use natural language processing to generate text that mimics human writing. The resulting book can cover a wide range of topics, from fiction to non-fiction, and can be produced in various formats such as e-books or print-on-demand. However, the quality of machine-generated books varies widely, and they may contain errors or lack coherence and originality. A machine-generated book is a book that has been produced using artificial intelligence (AI) or machine learning algorithms, without direct human involvement in the writing process. These algorithms
+analyze large amounts of data and use natural language processing to generate text that mimics human writing. The resulting book can cover a wide range of topics, from fiction to non-fiction, and can be produced in various formats such as e-books or print-on-demand. However, the quality of machine-generated books varies widely, and they may contain errors or lack coherence and originality. A machine-generated book is a book that has been produced using artificial intelligence (AI) or machine learning algorithms, without direct human involvement in the writing process. These algorithms analyze large amounts of data and use natural language processing to generate text that mimics human writing. The resulting book can cover a wide range of topics, from fiction to non-fiction, and can be produced in various formats such as e-books or print-on-demand. However, the quality of machine-generated books varies widely, and they may contain errors or lack coherence and originality. Top of Form
+A machine-generated book is a book that has been produced using Artificial Intelligence (AI) or machine learning algorithms, without direct human involvement in the writing process. These algorithms analyze large amounts of data and use natural language processing to generate text that mimics human writing. The resulting book can cover a wide range of topics, from fiction to non-fiction, and can be produced in various formats such as e-books or print-on-demand. The quality of machine-generated books varies widely, and they may contain errors or lack coherence and originality.
+Limitation
+Limitation of machine-generated books is that they may lack the creativity, originality, and depth of insight that a human author can provide. Although AI can analyze vast amounts of data and generate text based on certain rules and patterns, it may not be able to capture the nuances, emotions, and perspectives that make a written work truly compelling and thought-provoking. Additionally, AI-generated text may occasionally contain errors, biases, or inaccuracies, which can undermine the credibility and trustworthiness of the work. Therefore, it is important to carefully review and edit machine-generated books before publishing them to ensure their quality and accuracy. The figure.6 depicts the Use Case of Machine Generate Book.
+Figure 6. Use Case of Machine Generate Book [5]
+3.4	Conversational AI
+Conversational AI allows people to communicate with software applications in the same way they would normally interact with other humans. It frequently takes the form of smart chatbots that can answer queries, troubleshoot problems, and even engage in conversation. The technology is still developing constantly and can be used in a wide range of applications, including audio, video, and text. [6]
+Limitation
+Basic assistance: Chabot’s, based on conversational AI, cannot help with customer retention.
+High installation costs: Although bots can be available 24/7 to handle a large volume of queries simultaneously, deploying them is a costly proposition.
+Repetition: Machines are trained to provide standard answers to customer queries. [5]
+The Figure.7 depicts the Use Case of Conversational A
+Figure 7. Use Case of Conversational AI [9]
+4.	Research Opportunity and Research Challenges
+Research opportunity focuses on advancing the capabilities of natural language generation to interpret insights generated through augmented analytics. By developing a sophisticated NLG model that overcomes limitations and enhances user experience, this research aims to bridge the gap between data analysis complexity and user comprehension, leading to improved decision-making and organizational success.
+Making Natural Language Generation (NLG) better for explaining data in augmented analytics is really hard. There are many tough challenges that has to be tackle. It is requisite to find a good way to explain things that's are both easy to understand and detailed. Also, we have to make sure the computer can understand different kinds of data, like words and pictures. Fixing biases, making people trust the computer, and personalizing the explanations are also big tasks. Additionally, focus is required on enhancing the computer's performance and data storage. It's also important to think about what's fair and right when using this technology. the study on these tough problems, are carried out to make it simpler for everyone to understand and use data to make better decisions. It's a big challenge, but by working together and using new methods, The NLG can be made to work even better in augmented analytics. This will change how the data is shared and the insights from the data are used.
+5.	Conclusion
+Augmented analytics, a data analysis approach that leverages machine learning and AI techniques to provide advanced insights. It emphasizes the role of Natural Language Processing (NLP) and Natural Language Generation (NLG) in enhancing data interpretation and communication. The paper outlines the techniques within augmented analytics, including NLP, automated data preparation, machine learning, data visualization, and more. It also covers challenges, features, and use cases of augmented analytics. The research opportunities highlighted include developing sophisticated NLG models to bridge the gap between data complexity and user comprehension, thereby improving decision-making and organizational success.
+References
+[1]	C. D. Manning and H. Sch ¨utze, “Foundations of Statistical Natural Language Processing,”	MIT	Press.	Available:
+https://mitpress.mit.edu/9780262133609/foundations-of-statistical-natural-language-processing/.
+[2]	Gwo-Jen Hwang and Shu-Yun Chien, “Computers and education: Artificial intelligence,” Computers and Education: Artificial Intelligence | Vol 3, 2022 | ScienceDirect.com	by	Elsevier.	Available:
+https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/vol/3/suppl/C.
+[3]	T. B. Brown, B. Mann, N. Ryder, M. Subbiah, J. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell, S. Agarwal, A. Herbert-Voss, G. Krueger, T. Henighan, R. Child, A. Ramesh, D. M. Ziegler, J. Wu, C. Winter, C. Hesse, M. Chen, E. Sigler, M. Litwin, S. Gray, B. Chess, J. Clark, C. Berner, S. McCandlish, A. Radford, I. Sutskever, and D. Amodei, “Language models are few-shot learners,” arXiv.org, 22-Jul-2020. Available: https://arxiv.org/abs/2005.14165.
+[4]	L. Lakshmanan, “Why large language models like Chatgpt are bullshit artists,” Medium, 16-	Dec-2022. Available:
+[5]	https://web.archive.org/web/20221217075021/https://becominghuman.ai/why-large-
+language-models-like-chatgpt-are-bullshit-artists-c4d5bb850852.
+[6]	D. Q. I. N. D. I. A. Online, “Six limitations of Conversational Artificial Intelligence,” DATAQUEST, 24-May-2022 Available: https://www.dqindia.com/six-limitations-conversational-artificial-intelligence/.
+[7]	C. Hashemi-Pour, “What is conversational ai?,” Enterprise AI,	18-May-2022.
+Available:	https://www.techtarget.com/searchenterpriseai/definition/conversational-
+AI.
+[8]	Mark, “31+ best chat GPT use cases in various industries with applications,” MLYearning,	03-Mar-2023. Available: https://www.mlyearning.org/chat-gpt-use-
+cases/.
+[9]	“LAMDA,”	Wikipedia,	11-Apr-2023.	Available:
+https://en.wikipedia.org/wiki/LaMDA.
+[10]	Conversational AI: A complete guide [2023],” Yellow.ai, 24-Mar-2023. Available: https://yellow.ai/conversational-ai/.
+[11]	“OpenAI,” Wikipedia, 12-Apr-2023. Available: https://en.wikipedia.org/wiki/OpenAI.
+[12]	“What is natural language processing? intro to NLP in machine learning,” Gyansetu. Available: https://www.gyansetu.in/blogs/what-is-natural-language-processing/.
+[13]	“Natural language processing,”	Wikipedia,	05-Apr-2023. Available:
+https://en.wikipedia.org/wiki/Natural_language_processing.
+[14]	“Natural language generation (NLG) in 2023,” AIMultiple. Available: https://research.aimultiple.com/nlg/#what-are-real-world-content-automation-examples-thanks-to-nlg.
+[15]	“Augmented	analytics	explained,”	Tableau.	Available:
+https://www.tableau.com/learn/articles/augmented-analytics.
+[16]	P. by: D. Shaw-Dennis, “What is augmented analytics? - definition & top benefits 2022,” Yellowfin BI, 30-Sep-2022. Available: https://www.yellowfinbi.com/blog/what-is-augmented-analytics.
+[17]	P. G. Ghosh, “Augmented analytics use cases,” DATAVERSITY,	12-Jun-2018.
+Available: https://www.dataversity.net/augmented-analytics-use-cases/.
+[18]	L. Morgan, “What does NLP mean for augmented analytics?: TechTarget,” Business Analytics,	04-May-2021.	Available:
+https://www.techtarget.com/searchbusinessanalytics/feature/What-does-NLP-mean-for-augmented-
+analytics#:~:text=Augmented%20analytics%20uses%20two%20subtypes,applies%20 to%20text%20and%20audio.
+[19]	Wigmore, “What is natural language query?: Definition from TechTarget,” WhatIs.com,	31-Aug-2019.	Available:
+https://www.techtarget.com/whatis/definition/natural-language-
+query#:~:text=A%20natural%20language%20query%20is,format%20or%20alteration %20of%20syntax.
+[20]	M. Maybury, “New Directions in question answering,” SpringerLink, 01-Jan-1970. Available: https://link.springer.com/chapter/10.1007/978-1-4020-4746-6_18
+[21]	L. Cao, Zihui Gu♣, and Z. chen, “Symphony,” Publications – Lei Cao – Computer Science, https://www2.cs.arizona.edu/~caolei/publications.html.
+[22]	Bhartariya and sk singh, Artificial Intelligence, machine learning, and augmented analytics ..., https://ieeexplore.ieee.org/document/8896163.
+[23]	N.-B. HH;, “Augmented analytics driven by AI: A Digital Transformation Beyond Business	Intelligence,”	Sensors	(Basel,	Switzerland),
+https://pubmed.ncbi.nlm.nih.gov/36298421/.
